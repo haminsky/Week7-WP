@@ -16,3 +16,15 @@ insert it as the name of an image file, if the image is uploaded the inserted fi
 Steps to recreate: rename an image with a js code like (angryTuk"><img src=x onerror=prompt(document.domain)>) as a filename, the code will be injected as soon as the admin/user upload it through page attachement.
 
 Affected source code: media.php.
+
+## Pentesting Report
+
+1. (Required) Vulnerability Name:WordPress  4.0-4.7.2 - Authenticated Stored Cross-Site Scripting (XSS) in YouTube URL Embeds
+
+  - [ ] Summary: 
+    - Vulnerability types:
+    - Tested in version:
+    - Fixed in version: 
+  - [ ] GIF Walkthrough: 
+  - [ ] Steps to recreate: 
+  - [ ] Affected source code:
