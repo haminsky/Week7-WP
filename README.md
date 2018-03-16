@@ -21,10 +21,17 @@ Affected source code: media.php.
 
 1. (Required) Vulnerability Name:WordPress  4.0-4.7.2 - Authenticated Stored Cross-Site Scripting (XSS) in YouTube URL Embeds
 
-  - [ ] Summary: 
-    - Vulnerability types:
+  - [ ] Summary: allows users with posting priveleges to insert specially formatted HTML containing JavaScript for viewers' browsers to run.
+    
+    - Vulnerability types:(xss)CrossSite Scripting
+    
     - Tested in version:
-    - Fixed in version: 
+    
+    - Fixed in version: 4.2.13
+  
   - [ ] GIF Walkthrough: 
+  
+  
   - [ ] Steps to recreate: 
-  - [ ] Affected source code:
+  
+  - [ ] Affected source code:embed.php
