@@ -31,6 +31,8 @@ Affected source code: media.php.
   
   - [ ] GIF Walkthrough: 
   
+  ![youtubexss](https://user-images.githubusercontent.com/30760006/37540430-1d14a07a-2914-11e8-8a3a-371cb2e1c98b.gif)
+
   
   - [ ] Steps to recreate: 
   
