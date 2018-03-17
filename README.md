@@ -34,6 +34,26 @@ Affected source code: media.php.
   ![youtubexss](https://user-images.githubusercontent.com/30760006/37540430-1d14a07a-2914-11e8-8a3a-371cb2e1c98b.gif)
 
   
-  - [ ] Steps to recreate: 
+  - [ ] Steps to recreate: a user with posting abitlity 
   
   - [ ] Affected source code:embed.php
+
+
+
+
+1. (Required) Vulnerability Name:  WordPress <= 4.9.4 - Application Denial of Service (DoS) (unpatched)
+
+- [ ] Summary: using the linux command line to launch a denial of service against the WordPress application.
+    
+    - Vulnerability types:DoS Denial of Service
+    
+    - Tested in version:
+   
+   - Fixed in version: 
+  
+  - [ ] GIF Walkthrough: 
+  
+  - [ ] Steps to recreate: Download the python script doser.py point the script to wpdistillery.vm and then use linux command line to satrt the script 
+ 
+ - [ ] Affected source code:
+    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
