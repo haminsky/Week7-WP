@@ -51,7 +51,9 @@ Affected source code: media.php.
    
    - Fixed in version: 
   
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough:
+  ![dos](https://user-images.githubusercontent.com/30760006/37552263-bd059a30-296e-11e8-8f7e-2eae5ab23678.gif)
+   [ ] GIF Walkthrough:(continued)
   
   - [ ] Steps to recreate: Download the python script doser.py point the script to wpdistillery.vm and then use linux command line to satrt the script 
  
